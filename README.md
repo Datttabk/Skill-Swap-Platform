@@ -1,6 +1,6 @@
 # Skill-Swap-Platform
 Skill Swap Platform
-1.Datta Kambagi (Leader)
+1.Datta Kambagi 
 email:dattakambagi021@gmail.com
 2.om veerkar
 email:veerkarom3@gmail.com
