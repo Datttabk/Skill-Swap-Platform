@@ -7,12 +7,12 @@
 
   // Your web app's Firebase configuration
   const firebaseConfig = {
-    apiKey: "AIzaSyAxoJZev-Jypcto5UjwN_d7ir88bXIGQBc",
-    authDomain: "skill-swap-604cb.firebaseapp.com",
-    projectId: "skill-swap-604cb",
-    storageBucket: "skill-swap-604cb.firebasestorage.app",
+    apiKey: "",
+    authDomain: "skill-swap-4cb.firebaseapp.com",
+    projectId: "skill-swap-4cb",
+    storageBucket: "skill-swap-4cb.firebasestorage.app",
     messagingSenderId: "278817419053",
-    appId: "1:278817419053:web:80d1f0613401109f0aada4"
+    appId: ""
   };
 
   // Initialize Firebase
